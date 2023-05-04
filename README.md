@@ -1,2 +1,2 @@
-# Ücgenin Alanını Hesaplama Projesi
+# Üçgenin Alanını Hesaplama Projesi
 Patika Academy'nin verdiği üçgenin alanını hesaplama projesi
